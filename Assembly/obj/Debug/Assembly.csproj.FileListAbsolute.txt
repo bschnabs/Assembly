@@ -1,0 +1,7 @@
+c:\users\bob\documents\visual studio 2012\Projects\Assembly\Assembly\bin\Debug\Assembly.dll
+c:\users\bob\documents\visual studio 2012\Projects\Assembly\Assembly\bin\Debug\Assembly.pdb
+c:\users\bob\documents\visual studio 2012\Projects\Assembly\Assembly\bin\Debug\Assembly.xml
+c:\users\bob\documents\visual studio 2012\Projects\Assembly\Assembly\obj\Debug\Assembly.csproj.ResolveComReference.cache
+c:\users\bob\documents\visual studio 2012\Projects\Assembly\Assembly\obj\Debug\Assembly.dll
+c:\users\bob\documents\visual studio 2012\Projects\Assembly\Assembly\obj\Debug\Assembly.pdb
+C:\Users\Bob\Documents\Visual Studio 2012\Projects\Assembly\Assembly\obj\Debug\Assembly.csprojResolveAssemblyReference.cache
